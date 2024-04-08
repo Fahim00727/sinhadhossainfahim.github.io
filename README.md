@@ -1,9 +1,7 @@
-# sinhadhossainfahim.github.io
 # Sinhad Hossain Fahim's GitHub Portfolio
 
-## Introduction
-Welcome to the GitHub portfolio of Sinhad Hossain Fahim, a dedicated Computer Science professional and educator focused on leveraging artificial intelligence for social good.
-
+## About Fahim
+Sinhad Hossain Fahim completed his B.Sc. in Computer Science and Engineering from Stamford University, Bangladesh. He is serving in the field of CS to maintain his academic background after graduation. Now, he is continuing as an instructor in the "Sheikh Rasel Digital Lab Python Programming" project under the ICT division to accelerate digital literacy and programming skills development for children of Bangladesh. He specializes in machine learning and deep learning, computer vision, forming the basis of this specialization into a career devoted to the progress of artificial intelligence (AI). His research and implementation of social AI work ensure that these changes are effectively translated to find successful, practical applications.  He is very much interested in using AI for the betterment of mankind in ways to make the world a better place, and he looks forward to getting an opportunity to contribute to this space meaningfully.
 ## Education and Experience
 ### B.Sc. in Computer Science and Engineering
 - **Institution:** Stamford University, Bangladesh
@@ -12,7 +10,7 @@ Welcome to the GitHub portfolio of Sinhad Hossain Fahim, a dedicated Computer Sc
 ### Current Role
 - **Position:** Instructor, "Sheikh Rasel Digital Lab Python Programming" project
 - **Organization:** ICT Division, Bangladesh
-- **Responsibilities:** Teaching Python programming, promoting digital literacy, inspiring the next generation.
+- **Responsibilities:** Teaching Python programming, promoting digital literacy, and inspiring the next generation.
 
 ## Skills
 - **Technical Skills:** Machine Learning, Deep Learning, Computer Vision, Python
@@ -26,5 +24,5 @@ Deeply passionate about the potential of AI to positively impact society, partic
 
 ## Contact Information
 - **Email:** fahim1310652538@gmail.com
-- **LinkedIn:** [[Your LinkedIn Profile](Your LinkedIn URL)](https://www.linkedin.com/in/fahim00727/)
+- **LinkedIn:** https://www.linkedin.com/in/fahim00727/
 
