@@ -25,6 +25,6 @@ Welcome to the GitHub portfolio of Sinhad Hossain Fahim, a dedicated Computer Sc
 Deeply passionate about the potential of AI to positively impact society, particularly in healthcare, education, and environmental sustainability.
 
 ## Contact Information
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile](Your LinkedIn URL)
-- **Twitter:** [Your Twitter Handle](Your Twitter URL)
+- **Email:** fahim1310652538@gmail.com
+- **LinkedIn:** [[Your LinkedIn Profile](Your LinkedIn URL)](https://www.linkedin.com/in/fahim00727/)
+
