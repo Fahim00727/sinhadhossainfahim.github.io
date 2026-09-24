@@ -8,16 +8,14 @@ Sinhad Hossain Fahim completed his B.Sc. in Computer Science and Engineering fro
 - **Specialization:** Machine learning and deep learning with a focus on computer vision.
 
 ### Current Role
-- **Position:** Instructor, "Sheikh Rasel Digital Lab Python Programming" project
-- **Organization:** ICT Division, Bangladesh
-- **Responsibilities:** Teaching Python programming, promoting digital literacy, and inspiring the next generation.
+- **Position:** Web Developer(MLOps) (From 01/08/2023)  
+- **Organization:** Prosha Bangladesh Limited
+- **Responsibilities:** Development and maintenance of websites; Implementing ML pipeline; Implementing Innovative MLOps
 
 ## Skills
-- **Technical Skills:** Machine Learning, Deep Learning, Computer Vision, Python
-- **Soft Skills:** Effective communication, passionate educator, innovative thinker
+- **Technical Skills:** Machine Learning, Deep Learning, Computer Vision, Python, SE, SQL, Javascript
+- **Soft Skills:** Effective communication, passionate coder, innovative thinker
 
-## Projects
-(Please replace this placeholder with your project details, including a brief description, technologies used, and a link to the project repository if available.)
 
 ## Vision for AI and Social Good
 Deeply passionate about the potential of AI to positively impact society, particularly in healthcare, education, and environmental sustainability.
